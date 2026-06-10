@@ -1,0 +1,268 @@
+site_name: Manual RecWERTY
+site_url: https://wertymsd.github.io/manual-recwerty
+site_description: Manual de usuario de RecWERTY v3.2 — herramienta profesional de grabación de pantalla con efectos visuales, mejora de audio y personalización de marca.
+site_author: Alfonso Martinez
+
+copyright: Copyright &copy; 2026 Alfonso Martinez - RecWERTY
+
+theme:
+  name: material
+  language: es
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Cambiar a modo oscuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Cambiar a modo claro
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.tracking
+    - navigation.indexes
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    - content.code.copy
+    - content.tabs.link
+  icon:
+    logo: material/record-rec
+    repo: fontawesome/brands/github
+    edit: material/pencil
+    view: material/eye
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.snippets:
+      base_path: .
+      check_paths: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.betterem
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: es
+          default: true
+          name: Español
+          build: true
+          nav:
+            - Inicio: index.md
+            - ¿Qué es RecWERTY?: que-es-recwerty.md
+            - Instalación:
+              - General: instalacion/index.md
+              - Requisitos del sistema: instalacion/requisitos.md
+              - Instalación: instalacion/instalacion.md
+              - Primeros pasos: instalacion/primeros-pasos.md
+            - Interfaz:
+              - General: interfaz/index.md
+              - Navegación: interfaz/navegacion.md
+            - Captura:
+              - General: captura/index.md
+              - Grabación: captura/grabacion.md
+            - Efectos:
+              - General: efectos/index.md
+              - Clic: efectos/click.md
+              - Cursor: efectos/cursor.md
+              - Partículas: efectos/particulas.md
+              - Transiciones: efectos/transiciones.md
+              - Sonidos de teclado: efectos/sonidos-teclado.md
+            - Audio:
+              - General: audio/index.md
+              - Mejora de voz: audio/mejora-voz.md
+              - Configuración: audio/configuracion.md
+            - Marca:
+              - General: marca/index.md
+              - Panel de marca: marca/panel-marca.md
+              - Presets: marca/presets.md
+            - Ajustes:
+              - General: ajustes/index.md
+              - Exportación: ajustes/exportacion.md
+              - Generales: ajustes/generales.md
+            - Procesamiento:
+              - General: procesamiento/index.md
+              - Cola de renderizado: procesamiento/cola-renderizado.md
+            - Importar: importar.md
+            - Redes sociales: redes-sociales.md
+            - GIF: gif.md
+            - Atajos: atajos.md
+            - Licencia: licencia.md
+            - Presets y respaldos: presets-respaldos.md
+            - Solución de problemas: solucion-problemas.md
+            - Notas técnicas: notas-tecnicas.md
+        - locale: en
+          name: English
+          build: true
+          nav:
+            - Home: index.md
+            - What is RecWERTY?: que-es-recwerty.md
+            - Installation:
+              - Overview: instalacion/index.md
+              - System requirements: instalacion/requisitos.md
+              - Installation: instalacion/instalacion.md
+              - Getting started: instalacion/primeros-pasos.md
+            - Interface:
+              - Overview: interfaz/index.md
+              - Navigation: interfaz/navegacion.md
+            - Capture:
+              - Overview: captura/index.md
+              - Recording: captura/grabacion.md
+            - Effects:
+              - Overview: efectos/index.md
+              - Click: efectos/click.md
+              - Cursor: efectos/cursor.md
+              - Particles: efectos/particulas.md
+              - Transitions: efectos/transiciones.md
+              - Keyboard sounds: efectos/sonidos-teclado.md
+            - Audio:
+              - Overview: audio/index.md
+              - Voice enhancement: audio/mejora-voz.md
+              - Configuration: audio/configuracion.md
+            - Branding:
+              - Overview: marca/index.md
+              - Brand panel: marca/panel-marca.md
+              - Presets: marca/presets.md
+            - Settings:
+              - Overview: ajustes/index.md
+              - Export: ajustes/exportacion.md
+              - General: ajustes/generales.md
+            - Processing:
+              - Overview: procesamiento/index.md
+              - Render queue: procesamiento/cola-renderizado.md
+            - Import: importar.md
+            - Social media: redes-sociales.md
+            - GIF: gif.md
+            - Shortcuts: atajos.md
+            - License: licencia.md
+            - Presets & backups: presets-respaldos.md
+            - Troubleshooting: solucion-problemas.md
+            - Technical notes: notas-tecnicas.md
+        - locale: fr
+          name: Français
+          build: true
+          nav:
+            - Accueil: index.md
+            - Qu'est-ce que RecWERTY ?: que-es-recwerty.md
+            - Installation:
+              - Général: instalacion/index.md
+              - Prérequis système: instalacion/requisitos.md
+              - Installation: instalacion/instalacion.md
+              - Premiers pas: instalacion/primeros-pasos.md
+            - Interface:
+              - Général: interfaz/index.md
+              - Navigation: interfaz/navegacion.md
+            - Capture:
+              - Général: captura/index.md
+              - Enregistrement: captura/grabacion.md
+            - Effets:
+              - Général: efectos/index.md
+              - Clic: efectos/click.md
+              - Curseur: efectos/cursor.md
+              - Particules: efectos/particulas.md
+              - Transitions: efectos/transiciones.md
+              - Sons de clavier: efectos/sonidos-teclado.md
+            - Audio:
+              - Général: audio/index.md
+              - Amélioration vocale: audio/mejora-voz.md
+              - Configuration: audio/configuracion.md
+            - Marque:
+              - Général: marca/index.md
+              - Panneau Marque: marca/panel-marca.md
+              - Presets: marca/presets.md
+            - Paramètres:
+              - Général: ajustes/index.md
+              - Exportation: ajustes/exportacion.md
+              - Généraux: ajustes/generales.md
+            - Traitement:
+              - Général: procesamiento/index.md
+              - File de rendu: procesamiento/cola-renderizado.md
+            - Importer: importar.md
+            - Réseaux sociaux: redes-sociales.md
+            - GIF: gif.md
+            - Raccourcis: atajos.md
+            - Licence: licencia.md
+            - Presets et sauvegardes: presets-respaldos.md
+            - Dépannage: solucion-problemas.md
+            - Notes techniques: notas-tecnicas.md
+  - search:
+      separator: '[\s\-\.]+'
+      lang:
+        - es
+        - en
+        - fr
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+  - callouts
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/%E2%98%85alfonso-martinez-gonzalez%E2%98%85-19236218/
+    - icon: fontawesome/brands/github
+      link: https://github.com/wertyMSD
+  analytics:
+    provider: google
+    property: G-5G9B7PZHS4
+    feedback:
+      title: ¿Esta página le ha sido útil?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: Esta página es útil
+          data: 1
+          note: Gracias por su opinión
+        - icon: material/emoticon-neutral-outline
+          name: La página necesita mejorar
+          data: 0
+          note: Gracias por su opinión. Trabajaremos para mejorarla
+  consent:
+    title: Cookie
+    description: >-
+      Utilizamos cookies para reconocer sus visitas repetidas y sus preferencias,
+      así como para medir la eficacia de nuestra documentación y si los usuarios
+      encuentran lo que buscan. Con su consentimiento, nos ayuda a mejorar
+      nuestra documentación.
