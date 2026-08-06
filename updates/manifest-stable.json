@@ -3,16 +3,16 @@
   "channel": "stable",
   "latest": "3.2.1",
   "key_id": "global-2026-01",
-  "generated_at": "2026-08-06T19:02:42.148652+00:00",
+  "generated_at": "2026-08-06T19:07:09.988913+00:00",
   "releases": [
     {
       "version": "3.2.1",
       "type": "full",
       "target": "win-x64",
       "url": "https://github.com/wertyMSD/manual-recwerty/releases/download/v3.2.1/Setup_RecWERTY_v3.2.1.exe",
-      "sha256": "0041e9f36e734327e1a5d2f3fb4eae51d282ca4fb5018ecdebb5e5ade6ac4aa3",
-      "size": 13893554
+      "sha256": "e69ca87978fb33264b664ade02a41476523ad3730a2cf172cfd6b42465dcfc05",
+      "size": 156648708
     }
   ],
-  "signature": "dNnr8A1MDhldBmshRGKEhPUHfmihRoafwgP9H797oJeFL6UIThpupBi9vH6EJLKN5cfFvhK5rU25LoQt+sMcBA=="
+  "signature": "nuiwP/2/iErHmtu1rSMNLjTra/5M2j8wT+Uj0botlK4zeyU/tYEn4Zi6h3jGmHPLibEmL4HbCFtbJKZ20ZhqAA=="
 }
