@@ -1,18 +1,18 @@
 {
   "project": "recwerty",
   "channel": "stable",
-  "latest": "3.2.0",
+  "latest": "3.2.1",
   "key_id": "global-2026-01",
-  "generated_at": "2026-06-10T12:28:30.013125+00:00",
+  "generated_at": "2026-08-06T12:22:00.869117+00:00",
   "releases": [
     {
-      "version": "3.2.0",
+      "version": "3.2.1",
       "type": "full",
       "target": "win-x64",
-      "url": "https://github.com/wertyMSD/manual-recwerty/releases/download/v3.2.0/recwerty.zip",
-      "sha256": "1baf282e8145d35cd62fd0e26479cd71b0e292bed18683c7739153ce31dbc83e",
-      "size": 213726599
+      "url": "https://github.com/wertyMSD/manual-recwerty/releases/download/v3.2.1/Setup_RecWERTY_v3.2.1.exe",
+      "sha256": "52d412fc01d818ba9fa40844bd999783c84d093437b8892c3a4638fc4d48938f",
+      "size": 40950144
     }
   ],
-  "signature": "XvCk3Vno8nwn3ZaBC30LNNVOOUj5K2qiDWAsSSz6iDSEWx3kHWWzzSIqUEtL7FXc0gIp1GvnKuTCM0ot3lyIAA=="
+  "signature": "GejKMrvF76+zccniJlCRzBRlhEvu2rnYVwlMhBtGyWvJS7PxxKoZeuvFqlF9fm6MC+H7pIV4aU9RcwhYiJw6Bw=="
 }
