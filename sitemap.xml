@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/indice_docs/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/indice_docs/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/indice_docs/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/indice_docs/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/"/>
@@ -18,23 +10,15 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/atajos/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/atajos/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/atajos/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/atajos/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/capturas-checklist/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/capturas-checklist/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/capturas-checklist/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/capturas-checklist/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/gif/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/gif/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/gif/"/>
@@ -42,23 +26,15 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/importar/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/importar/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/importar/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/importar/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/indice_es/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/indice_es/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/indice_es/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/indice_es/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/licencia/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/licencia/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/licencia/"/>
@@ -66,7 +42,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/notas-tecnicas/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/notas-tecnicas/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/notas-tecnicas/"/>
@@ -74,7 +50,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/presets-respaldos/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/presets-respaldos/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/presets-respaldos/"/>
@@ -82,15 +58,13 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/privacidad/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/privacidad/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/privacidad/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/privacidad/"/>
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/que-es-recwerty/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/que-es-recwerty/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/que-es-recwerty/"/>
@@ -98,7 +72,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/redes-sociales/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/redes-sociales/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/redes-sociales/"/>
@@ -106,7 +80,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/solucion-problemas/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/solucion-problemas/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/solucion-problemas/"/>
@@ -114,15 +88,13 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/store/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/store/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/store/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/store/"/>
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/ajustes/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/ajustes/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/ajustes/"/>
@@ -130,7 +102,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/ajustes/exportacion/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/ajustes/exportacion/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/ajustes/exportacion/"/>
@@ -138,23 +110,15 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/ajustes/generales/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/ajustes/generales/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/ajustes/generales/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/ajustes/generales/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/ajustes/indice_ajustes/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/ajustes/indice_ajustes/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/ajustes/indice_ajustes/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/ajustes/indice_ajustes/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/audio/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/audio/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/audio/"/>
@@ -162,23 +126,15 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/audio/configuracion/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/audio/configuracion/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/audio/configuracion/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/audio/configuracion/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/audio/indice_audio/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/audio/indice_audio/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/audio/indice_audio/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/audio/indice_audio/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/audio/mejora-voz/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/audio/mejora-voz/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/audio/mejora-voz/"/>
@@ -186,7 +142,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/captura/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/captura/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/captura/"/>
@@ -194,23 +150,15 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/captura/grabacion/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/captura/grabacion/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/captura/grabacion/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/captura/grabacion/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/captura/indice_captura/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/captura/indice_captura/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/captura/indice_captura/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/captura/indice_captura/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/efectos/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/efectos/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/efectos/"/>
@@ -218,7 +166,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/efectos/click/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/efectos/click/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/efectos/click/"/>
@@ -226,23 +174,15 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/efectos/cursor/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/efectos/cursor/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/efectos/cursor/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/efectos/cursor/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/efectos/indice_efectos/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/efectos/indice_efectos/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/efectos/indice_efectos/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/efectos/indice_efectos/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/efectos/particulas/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/efectos/particulas/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/efectos/particulas/"/>
@@ -250,7 +190,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/efectos/sonidos-teclado/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/efectos/sonidos-teclado/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/efectos/sonidos-teclado/"/>
@@ -258,7 +198,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/efectos/transiciones/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/efectos/transiciones/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/efectos/transiciones/"/>
@@ -266,23 +206,15 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/instalacion/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/instalacion/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/instalacion/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/instalacion/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/instalacion/indice_instalacion/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/instalacion/indice_instalacion/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/instalacion/indice_instalacion/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/instalacion/indice_instalacion/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/instalacion/instalacion/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/instalacion/instalacion/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/instalacion/instalacion/"/>
@@ -290,15 +222,13 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/instalacion/instalador-windows/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/instalacion/instalador-windows/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/instalacion/instalador-windows/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/instalacion/instalador-windows/"/>
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/instalacion/primeros-pasos/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/instalacion/primeros-pasos/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/instalacion/primeros-pasos/"/>
@@ -306,7 +236,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/instalacion/requisitos/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/instalacion/requisitos/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/instalacion/requisitos/"/>
@@ -314,23 +244,15 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/interfaz/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/interfaz/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/interfaz/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/interfaz/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/interfaz/indice_interfaz/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/interfaz/indice_interfaz/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/interfaz/indice_interfaz/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/interfaz/indice_interfaz/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/interfaz/navegacion/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/interfaz/navegacion/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/interfaz/navegacion/"/>
@@ -338,23 +260,15 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/marca/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/marca/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/marca/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/marca/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/marca/indice_marca/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/marca/indice_marca/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/marca/indice_marca/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/marca/indice_marca/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/marca/panel-marca/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/marca/panel-marca/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/marca/panel-marca/"/>
@@ -362,7 +276,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/marca/presets/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/marca/presets/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/marca/presets/"/>
@@ -370,7 +284,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/procesamiento/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/procesamiento/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/procesamiento/"/>
@@ -378,31 +292,15 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/procesamiento/cola-renderizado/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/procesamiento/cola-renderizado/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/procesamiento/cola-renderizado/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/procesamiento/cola-renderizado/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/procesamiento/indice_procesamiento/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/procesamiento/indice_procesamiento/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/procesamiento/indice_procesamiento/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/procesamiento/indice_procesamiento/"/>
-    </url>
-    <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/en/indice_docs/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/indice_docs/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/indice_docs/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/indice_docs/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/"/>
@@ -410,7 +308,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/atajos/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/atajos/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/atajos/"/>
@@ -418,7 +316,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/gif/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/gif/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/gif/"/>
@@ -426,21 +324,15 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/importar/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/importar/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/importar/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/importar/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/en/indice_en/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/indice_en/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/licencia/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/licencia/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/licencia/"/>
@@ -448,7 +340,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/notas-tecnicas/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/notas-tecnicas/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/notas-tecnicas/"/>
@@ -456,7 +348,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/presets-respaldos/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/presets-respaldos/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/presets-respaldos/"/>
@@ -464,7 +356,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/que-es-recwerty/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/que-es-recwerty/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/que-es-recwerty/"/>
@@ -472,7 +364,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/redes-sociales/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/redes-sociales/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/redes-sociales/"/>
@@ -480,7 +372,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/solucion-problemas/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/solucion-problemas/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/solucion-problemas/"/>
@@ -488,7 +380,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/ajustes/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/ajustes/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/ajustes/"/>
@@ -496,7 +388,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/ajustes/exportacion/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/ajustes/exportacion/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/ajustes/exportacion/"/>
@@ -504,23 +396,15 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/ajustes/generales/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/ajustes/generales/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/ajustes/generales/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/ajustes/generales/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/en/ajustes/indice_ajustes/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/ajustes/indice_ajustes/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/ajustes/indice_ajustes/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/ajustes/indice_ajustes/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/audio/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/audio/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/audio/"/>
@@ -528,23 +412,15 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/audio/configuracion/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/audio/configuracion/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/audio/configuracion/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/audio/configuracion/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/en/audio/indice_audio/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/audio/indice_audio/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/audio/indice_audio/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/audio/indice_audio/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/audio/mejora-voz/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/audio/mejora-voz/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/audio/mejora-voz/"/>
@@ -552,7 +428,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/captura/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/captura/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/captura/"/>
@@ -560,23 +436,15 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/captura/grabacion/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/captura/grabacion/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/captura/grabacion/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/captura/grabacion/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/en/captura/indice_captura/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/captura/indice_captura/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/captura/indice_captura/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/captura/indice_captura/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/efectos/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/efectos/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/efectos/"/>
@@ -584,7 +452,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/efectos/click/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/efectos/click/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/efectos/click/"/>
@@ -592,23 +460,15 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/efectos/cursor/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/efectos/cursor/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/efectos/cursor/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/efectos/cursor/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/en/efectos/indice_efectos/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/efectos/indice_efectos/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/efectos/indice_efectos/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/efectos/indice_efectos/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/efectos/particulas/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/efectos/particulas/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/efectos/particulas/"/>
@@ -616,7 +476,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/efectos/sonidos-teclado/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/efectos/sonidos-teclado/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/efectos/sonidos-teclado/"/>
@@ -624,7 +484,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/efectos/transiciones/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/efectos/transiciones/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/efectos/transiciones/"/>
@@ -632,23 +492,15 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/instalacion/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/instalacion/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/instalacion/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/instalacion/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/en/instalacion/indice_instalacion/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/instalacion/indice_instalacion/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/instalacion/indice_instalacion/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/instalacion/indice_instalacion/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/instalacion/instalacion/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/instalacion/instalacion/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/instalacion/instalacion/"/>
@@ -656,7 +508,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/instalacion/primeros-pasos/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/instalacion/primeros-pasos/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/instalacion/primeros-pasos/"/>
@@ -664,7 +516,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/instalacion/requisitos/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/instalacion/requisitos/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/instalacion/requisitos/"/>
@@ -672,23 +524,15 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/interfaz/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/interfaz/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/interfaz/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/interfaz/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/en/interfaz/indice_interfaz/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/interfaz/indice_interfaz/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/interfaz/indice_interfaz/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/interfaz/indice_interfaz/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/interfaz/navegacion/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/interfaz/navegacion/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/interfaz/navegacion/"/>
@@ -696,23 +540,15 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/marca/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/marca/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/marca/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/marca/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/en/marca/indice_marca/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/marca/indice_marca/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/marca/indice_marca/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/marca/indice_marca/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/marca/panel-marca/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/marca/panel-marca/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/marca/panel-marca/"/>
@@ -720,7 +556,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/marca/presets/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/marca/presets/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/marca/presets/"/>
@@ -728,7 +564,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/procesamiento/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/procesamiento/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/procesamiento/"/>
@@ -736,71 +572,15 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/en/procesamiento/cola-renderizado/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/procesamiento/cola-renderizado/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/procesamiento/cola-renderizado/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/procesamiento/cola-renderizado/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/en/procesamiento/indice_procesamiento/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/procesamiento/indice_procesamiento/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/procesamiento/indice_procesamiento/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/procesamiento/indice_procesamiento/"/>
-    </url>
-    <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/en/capturas-checklist/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/capturas-checklist/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/capturas-checklist/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/capturas-checklist/"/>
-    </url>
-    <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/en/indice_es/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/indice_es/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/indice_es/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/indice_es/"/>
-    </url>
-    <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/en/privacidad/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/privacidad/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/privacidad/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/privacidad/"/>
-    </url>
-    <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/en/store/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/store/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/store/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/store/"/>
-    </url>
-    <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/en/instalacion/instalador-windows/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/instalacion/instalador-windows/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/instalacion/instalador-windows/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/instalacion/instalador-windows/"/>
-    </url>
-    <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/fr/indice_docs/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/indice_docs/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/indice_docs/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/indice_docs/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/"/>
@@ -808,23 +588,15 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/atajos/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/atajos/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/atajos/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/atajos/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/fr/capturas-checklist/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/capturas-checklist/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/capturas-checklist/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/capturas-checklist/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/gif/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/gif/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/gif/"/>
@@ -832,23 +604,15 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/importar/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/importar/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/importar/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/importar/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/fr/indice_es/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/indice_es/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/indice_es/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/indice_es/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/licencia/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/licencia/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/licencia/"/>
@@ -856,7 +620,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/notas-tecnicas/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/notas-tecnicas/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/notas-tecnicas/"/>
@@ -864,23 +628,15 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/presets-respaldos/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/presets-respaldos/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/presets-respaldos/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/presets-respaldos/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/fr/privacidad/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/privacidad/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/privacidad/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/privacidad/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/que-es-recwerty/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/que-es-recwerty/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/que-es-recwerty/"/>
@@ -888,7 +644,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/redes-sociales/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/redes-sociales/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/redes-sociales/"/>
@@ -896,23 +652,15 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/solucion-problemas/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/solucion-problemas/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/solucion-problemas/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/solucion-problemas/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/fr/store/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/store/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/store/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/store/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/ajustes/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/ajustes/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/ajustes/"/>
@@ -920,7 +668,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/ajustes/exportacion/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/ajustes/exportacion/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/ajustes/exportacion/"/>
@@ -928,23 +676,15 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/ajustes/generales/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/ajustes/generales/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/ajustes/generales/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/ajustes/generales/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/fr/ajustes/indice_ajustes/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/ajustes/indice_ajustes/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/ajustes/indice_ajustes/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/ajustes/indice_ajustes/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/audio/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/audio/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/audio/"/>
@@ -952,23 +692,15 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/audio/configuracion/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/audio/configuracion/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/audio/configuracion/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/audio/configuracion/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/fr/audio/indice_audio/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/audio/indice_audio/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/audio/indice_audio/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/audio/indice_audio/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/audio/mejora-voz/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/audio/mejora-voz/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/audio/mejora-voz/"/>
@@ -976,7 +708,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/captura/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/captura/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/captura/"/>
@@ -984,23 +716,15 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/captura/grabacion/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/captura/grabacion/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/captura/grabacion/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/captura/grabacion/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/fr/captura/indice_captura/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/captura/indice_captura/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/captura/indice_captura/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/captura/indice_captura/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/efectos/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/efectos/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/efectos/"/>
@@ -1008,7 +732,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/efectos/click/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/efectos/click/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/efectos/click/"/>
@@ -1016,23 +740,15 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/efectos/cursor/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/efectos/cursor/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/efectos/cursor/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/efectos/cursor/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/fr/efectos/indice_efectos/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/efectos/indice_efectos/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/efectos/indice_efectos/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/efectos/indice_efectos/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/efectos/particulas/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/efectos/particulas/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/efectos/particulas/"/>
@@ -1040,7 +756,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/efectos/sonidos-teclado/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/efectos/sonidos-teclado/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/efectos/sonidos-teclado/"/>
@@ -1048,7 +764,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/efectos/transiciones/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/efectos/transiciones/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/efectos/transiciones/"/>
@@ -1056,39 +772,23 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/instalacion/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/instalacion/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/instalacion/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/instalacion/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/fr/instalacion/indice_instalacion/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/instalacion/indice_instalacion/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/instalacion/indice_instalacion/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/instalacion/indice_instalacion/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/instalacion/instalacion/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/instalacion/instalacion/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/instalacion/instalacion/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/instalacion/instalacion/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/fr/instalacion/instalador-windows/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/instalacion/instalador-windows/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/instalacion/instalador-windows/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/instalacion/instalador-windows/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/instalacion/primeros-pasos/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/instalacion/primeros-pasos/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/instalacion/primeros-pasos/"/>
@@ -1096,7 +796,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/instalacion/requisitos/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/instalacion/requisitos/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/instalacion/requisitos/"/>
@@ -1104,23 +804,15 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/interfaz/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/interfaz/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/interfaz/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/interfaz/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/fr/interfaz/indice_interfaz/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/interfaz/indice_interfaz/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/interfaz/indice_interfaz/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/interfaz/indice_interfaz/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/interfaz/navegacion/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/interfaz/navegacion/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/interfaz/navegacion/"/>
@@ -1128,23 +820,15 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/marca/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/marca/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/marca/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/marca/"/>
     </url>
     <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/fr/marca/indice_marca/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/marca/indice_marca/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/marca/indice_marca/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/marca/indice_marca/"/>
-    </url>
-    <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/marca/panel-marca/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/marca/panel-marca/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/marca/panel-marca/"/>
@@ -1152,7 +836,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/marca/presets/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/marca/presets/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/marca/presets/"/>
@@ -1160,7 +844,7 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/procesamiento/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/procesamiento/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/procesamiento/"/>
@@ -1168,24 +852,10 @@
     </url>
     <url>
         <loc>https://wertymsd.github.io/manual-recwerty/fr/procesamiento/cola-renderizado/</loc>
-        <lastmod>2026-08-06</lastmod>
+        <lastmod>2026-08-11</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/procesamiento/cola-renderizado/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/procesamiento/cola-renderizado/"/>
         <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/procesamiento/cola-renderizado/"/>
-    </url>
-    <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/fr/procesamiento/indice_procesamiento/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/procesamiento/indice_procesamiento/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://wertymsd.github.io/manual-recwerty/en/procesamiento/indice_procesamiento/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://wertymsd.github.io/manual-recwerty/procesamiento/indice_procesamiento/"/>
-    </url>
-    <url>
-        <loc>https://wertymsd.github.io/manual-recwerty/fr/indice_fr/</loc>
-        <lastmod>2026-08-06</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://wertymsd.github.io/manual-recwerty/fr/indice_fr/"/>
     </url>
 </urlset>
