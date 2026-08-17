@@ -1,7 +1,12 @@
-# Manual de Usuario — RecWERTY v3.2
+---
+created: 2026-08-13
+tags:
+  - contexto/proyecto/manual
+---
+# Manual de Usuario — RecWERTY v3.2.3
 
 > **RecWERTY**: Grabación de pantalla profesional con efectos de movimiento y mejora de audio.
-> Versión 3.2 | Windows | Python 3.13
+> Versión 3.2.3 | Windows | Microsoft Store ID: `9NLD6GX4L1R1`
 
 ---
 
@@ -52,41 +57,24 @@ RecWERTY es una herramienta de grabación de pantalla profesional diseñada para
 | Componente | Requisito |
 |---|---|
 | **Sistema operativo** | Windows 10 u 11 (64 bits) |
-| **Python** | 3.13 o superior |
 | **RAM** | 8 GB mínimo (16 GB recomendado) |
 | **GPU** | NVIDIA (NVENC), Intel (QuickSync) o AMD (AMF) para codificación acelerada |
 | **Disco** | 500 MB para la aplicación, más espacio para grabaciones |
-| **FFmpeg** | Instalado y accesible en `PATH` |
 
-### Dependencias de software
+### Canal de instalación
 
-- **Python 3.13+**: [Descargar Python](https://www.python.org/downloads/)
-- **uv**: Gestor de paquetes -> `powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"`
-- **FFmpeg**: [Descargar FFmpeg](https://ffmpeg.org/download.html) y agregarlo al `PATH`
+- **Microsoft Store ID**: `9NLD6GX4L1R1`
+- **Vínculo de Microsoft Store**: disponible después de publicar RecWERTY en Microsoft Store.
+- **Deep link de Windows**: disponible después de publicar RecWERTY en Microsoft Store.
+- **Actualizaciones**: llegan por Microsoft Store / Partner Center. RecWERTY no usa un actualizador propio dentro de la aplicación.
 
 ---
 
 ## Instalación
 
-### Desde código fuente
+### Microsoft Store
 
-```bash
-# 1. Clonar el repositorio
-git clone <repo-url>
-cd recwerty
-
-# 2. Instalar dependencias
-uv sync
-
-# 3. Opcional: instalar dependencias de build (para compilar ejecutable)
-uv sync --extra build
-
-# 4. Generar assets (sonidos, imágenes)
-uv run python generate_assets.py
-
-# 5. Ejecutar
-uv run python main.py
-```
+Instalá RecWERTY desde Microsoft Store cuando la publicación esté disponible. El vínculo público se agregará al manual después de publicar la app.
 
 ### Ejecutable compilado (Windows)
 
@@ -316,7 +304,7 @@ Accesible desde el panel de Marca. Incluye:
 ### Ajustes generales
 
 - **Licencia**: Activación de licencia PRO.
-- **Actualizaciones automáticas**: Verificar al iniciar.
+- **Versiones nuevas**: Publicadas por el instalador oficial o Microsoft Store / Partner Center.
 - **Idioma**: Español, English, Français.
 
 ---
@@ -445,8 +433,8 @@ Los atajos se muestran en la interfaz durante la grabación.
 
 ### Actualizaciones
 
-- RecWERTY verifica actualizaciones automáticamente al iniciar (configurable).
-- Las actualizaciones parciales se descargan en segundo plano.
+- Las versiones para usuarios finales se publican por Microsoft Store / Partner Center o como nueva versión del instalador oficial.
+- RecWERTY no usa un actualizador propio dentro de la aplicación.
 - La versión actual se muestra en la pantalla Acerca de.
 
 ### Archivos de licencia y configuración
@@ -501,9 +489,9 @@ Los presets se exportan/importan como archivos `.recbrand` (ZIP conteniendo `bra
 
 ### La grabación no inicia
 
-1. Verificá que FFmpeg esté instalado: `ffmpeg -version` en terminal.
-2. Comprobá que el micrófono esté seleccionado correctamente.
-3. Si usás zona personalizada, asegurate de haber dibujado el rectángulo.
+1. Comprobá que elegiste un modo de captura.
+2. Si usás zona personalizada, asegurate de haber dibujado el rectángulo.
+3. Cerrá otras apps que puedan bloquear la captura de pantalla y probá otra vez.
 
 ### El audio no se graba
 
@@ -518,20 +506,18 @@ Los presets se exportan/importan como archivos `.recbrand` (ZIP conteniendo `bra
 
 ### Error de librería `libwertyaudio`
 
-- Si ejecutás desde código fuente, asegurate de tener las dependencias de audio.
-- Si usás el ejecutable compilado, verificá que el archivo `.pyd` esté presente.
+- Reiniciá RecWERTY y probá otra vez.
+- Si el error continúa, enviá un reporte con la versión de RecWERTY y los pasos para reproducirlo.
 
 ### El ejecutable compilado no funciona
 
-1. Revisá los logs bootstrap en la carpeta `temp/` junto al `.exe`.
-2. Asegurate de que FFmpeg esté accesible desde el `PATH` del sistema.
-3. Verificá que los assets estén generados (`generate_assets.py`).
+1. Confirmá que usás Windows 10 u 11 de 64 bits.
+2. Abrí RecWERTY desde el menú Inicio.
+3. Si Windows muestra SmartScreen, revisá que el archivo venga del canal oficial antes de continuar.
 
 ### Dónde encontrar los logs
 
-- **Modo desarrollo**: `Documentos\RecWERTY\temp\recwerty.log`
-- **Modo ejecutable**: `temp\recwerty.log` (junto al .exe) y `Documentos\RecWERTY\temp\recwerty.log`
-- **Bootstrap**: `temp\recwerty-bootstrap.log`
+- **Logs de la app**: `Documentos\RecWERTY\temp\recwerty.log`
 
 ### Reportar problemas
 
@@ -573,4 +559,4 @@ RecWERTY detecta y usa automáticamente:
 
 ---
 
-*RecWERTY v3.2 | Documentación generada para usuarios finales*
+*RecWERTY v3.2.3 | Documentación para usuarios finales*
