@@ -19,7 +19,7 @@
   2. Run the global skill `release-crm` from THIS repo: novedades from Engram (`project: recwerty`) + `git log`, draft confirmation menu, enrichment + image gate, then publish.
 - Publish targets (Model B): `gh release create` → `alfonsoautomatiza/recwerty` (zip only); manual + manifest → `mkdocs gh-deploy --force --remote-name origin`.
 - `README.md` and `LICENSE` are regular files on `main` of this repo: commit them (together with novedades changes) via the normal git flow BEFORE `mkdocs gh-deploy`.
-- Novedades pages are TRILINGUAL: `docs/es/novedades.md`, `docs/en/novedades.md`, `docs/fr/novedades.md`. Always PREPEND the new version; never rewrite existing history. Keep the mkdocs.yml nav entry as the second item in each language.
+- Novedades live in a SINGLE file at the root of docs: `docs/novedades.md` (no per-language copies, default-language es content). Always PREPEND the new version; never rewrite existing history. The nav entry (second item) lives ONLY in the default (es) nav block and the root nav — NEVER in en/fr blocks: with `fallback_to_default: false` the root file exists only in the default-language build, so en/fr nav entries abort `mkdocs build --strict`.
 - `manifest_url` is baked into installed software: `https://alfonsoautomatiza.github.io/recwerty/es/updates/manifest-stable.json` — do NOT move the deploy target or gh-pages repo, or auto-update breaks for users.
 - Microsoft Store ID: `9NLD6GX4L1R1`. The `.msix` is built manually in the private repo (`python msix/build_msix.py`) and delivered ONLY through Partner Center — NEVER uploaded to GitHub Releases.
 - `UPDATE_PRIVATE_KEY` is NOT needed in this repo: signing already happened during the private build.
