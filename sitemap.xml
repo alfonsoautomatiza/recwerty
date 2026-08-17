@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+         <loc>https://alfonsoautomatiza.github.io/recwerty/novedades/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
          <loc>https://alfonsoautomatiza.github.io/recwerty/</loc>
          <lastmod>2026-08-17</lastmod>
     </url>
@@ -28,11 +33,6 @@
     
     <url>
          <loc>https://alfonsoautomatiza.github.io/recwerty/notas-tecnicas/</loc>
-         <lastmod>2026-08-17</lastmod>
-    </url>
-    
-    <url>
-         <loc>https://alfonsoautomatiza.github.io/recwerty/novedades/</loc>
          <lastmod>2026-08-17</lastmod>
     </url>
     
